@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ivan A. F. Aguiar
+- 👋 Hello,  I’m Ivan A. F. Aguiar
 - 👀 I’m interested in software engineering, focused in back end, by now.
 - 🌱 I’m currently learning Node.JS, TypeScript, MongoDB.
 - 💞️ I’m looking to collaborate on beginner projects
