@@ -1,7 +1,7 @@
 # Olá, eu sou o Ivan Aguiar! 👋
 
 ## Sobre mim
-Atualmente, estou focado em construir soluções robustas e escaláveis utilizando **Node.js** usando também **TypeScript**. Sou um entusiasta de testes automatizados e adoro garantir a qualidade do código com o **Jest**.
+Atualmente, estou focado em construir soluções robustas e escaláveis utilizando **Node.js** usando também **TypeScript**. Sou um entusiasta de testes automatizados e tenho o hábito de garantir a qualidade com testes utilizando **Jest**, **Vitest**, **Mocha** e **Sinon**.
 
 ## Tecnologias e Ferramentas
 - **Linguagens**: JavaScript (Node.js), TypeScript, PHP.
